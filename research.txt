@@ -1,0 +1,16 @@
+Waarom is het niet handig om <a href=mailto:yourname@domain.com>mailen naar bedrijf</a> te gebruiken op je bedrijfswebsite?
+Dit is niet handig om te gebruiken omdat er bij een mailto wordt geprobeerd een mail-programma (zoals outlook) te openen en dit werkt niet
+bij iedereen en ook heeft niet iedereen zo'n programma geinstalleerd. 
+
+Waarom zou je contact informatie niet in een table zetten?
+Dat weet ik niet zeker, dat zal wel iets met SEO te maken hebben.
+
+Waarom zou je contact informatie niet in een list zetten?
+Zie antwoord hierboven.
+
+Wat is Search Engine Optimisation?
+Het optimaliseren van je website om makkelijker gevonden te worden door zoekmachines (google)
+
+Wat is het verschil tussen SEO en ASO?
+SEO is voor websites en ASO voor apps
+
